@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>We will help you to solve all your Statistics, Data Science and AWS ML related questions !! on Data Fenix</title>
+    <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/</link>
+    <description>Recent content in We will help you to solve all your Statistics, Data Science and AWS ML related questions !! on Data Fenix</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://Data-Fenix.github.io/Data-Fenix-portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/about/</guid>
+      <description>Anuradha Dissanayake | Machine Learning Engineer | Data Scientist   I am an AI enthusiast and a data scientist having statistical background and professional experience. I have one year of experience as an ML Engineer and 8 months as a data scientist/data analyst intern. I am passionate in building end to end CI/CD pipelines using cloud platforms to save time, cost and resources of my company. I am an ambitious person who has developed a mature and responsible approach to any task I undertake.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/contact/</guid>
+      <description>Follow us on these social media platforms.
+   Platform URL     GitHub: https://github.com/   YouTube: https://www.youtube.com/c/kenjee1?sub_confirmation=1   Website: https://www.playingnumbers.com, https://kennethjee.com/   Twitter : https://twitter.com/KenJee_DS   LinkedIn: https://www.linkedin.com/in/kenjee/   Medium: https://medium.com/@kenneth.b.jee   Gmail: anuradha95dissanayake@gmail.com    </description>
+    </item>
+    
+    <item>
+      <title>Project 1: Mobile Price Prediction</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-1/</guid>
+      <description>In this project we are trying to predict the price of the mobile based on their features and the brand. We used a web-scraped dataset for this analysis and we applied many preprocessing techniques to preprocess this dataset. The dependent variable of this model is price and it’s continuous data. Therefore we used regression techniques to get the prediction and trained linear regression, elastic net regression, extra tree regressor, random forest regression and support vector regression models respectively.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Adults Income</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-2/</guid>
+      <description>To predict the adults annual income  Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Telco Customer Churn Prediction Model</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-3/</guid>
+      <description>A ML workflow is a sequence of ML related task that runs in a sequential manner. This workflow helps to automate the overall MLOps workflow, from data ingestion, preprocessing, training, optimizing and deployment. So in this project, we will demonstrate a simple end to end ML pipeline workflow deployment using AWS SageMaker.
+  ML use case of this project is, identify the churn customers in telco company and identifying those customers&amp;rsquo; saves millions of money to the company.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Telco Customer Churn Prediction Model - Inference Pipeline </title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-4/</guid>
+      <description>Previously we developed a customer churn prediction model using classification technique and already deploy that model in the production enviornment (To see that project, please click here).
+  Now our client/organization needs the prediction in each week. If the prediction is to be done in each week and if the process(full pipeline) has to be done every week, it will consume so much time, effort and resources. Therefore, we can retrain the model quarterly (may depend on the requirement of the company).</description>
+    </item>
+    
+    <item>
+      <title>Project 5: Telco Customer Churn Prediction Model - Training Pipeline </title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-5/</guid>
+      <description>Previously we developed a customer churn prediction model using classification technique and already deploy that model in the production enviornment (To see that project, please click here).
+  Now our client/organization needs the prediction in each week. If the prediction is to be done in each week and if the process(full pipeline) has to be done every week, it will consume so much time, effort and resources. Therefore, we can retrain the model quarterly (may depend on the requirement of the company).</description>
+    </item>
+    
+    <item>
+      <title>Project 6: Electricity Price Prediction </title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-6/</guid>
+      <description>Built an end to end CI/CD pipeline to predict the electricity price of the IT company
+ Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 7: Mall Customer Segmentation - K-Means Clustering</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-7/</guid>
+      <description>To identify various customer groups with existing customer data. Based on the results, stores can provide discounts or offers to customers.
+ Link to Github repository</description>
+    </item>
+    
+    <item>
+      <title>Project 8: Maintain your AWS CodeCommit Code Repository</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-8/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-8/</guid>
+      <description>What is code repository? A code repository is a place to store codes, documents, notes, scripts and other items related to your project. In other words, we can say code storage. Usually, code repositories are handled by VCS (Version Control System) softwares such as git. If you need to success your software development project, you must maintain a good code repository.
+  Benefits of having a code repository</description>
+    </item>
+    
+    <item>
+      <title>Project 9: Maintain your AWS CodeCommit Code Repository</title>
+      <link>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Data-Fenix.github.io/Data-Fenix-portfolio/post/project-9/</guid>
+      <description>What is code repository? A code repository is a place to store codes, documents, notes, scripts and other items related to your project. In other words, we can say code storage. Usually, code repositories are handled by VCS (Version Control System) softwares such as git. If you need to success your software development project, you must maintain a good code repository.
+  Benefits of having a code repository</description>
+    </item>
+    
+  </channel>
+</rss>
